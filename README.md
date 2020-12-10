@@ -4,4 +4,5 @@
                   
 * infosatc-lp-avaliativo
 
-`Atividade avaliativa ARS da disciplina de Linguagem de Programação do curso técnico de informática da SATC 2020`
+`Atividade avaliativa ARS da disciplina de Linguagem de Programação do curso técnico de informática da SATC`
+`2020`
