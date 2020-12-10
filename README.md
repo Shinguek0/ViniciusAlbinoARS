@@ -6,3 +6,9 @@
 
 `Atividade avaliativa ARS da disciplina de Linguagem de Programação do curso técnico de informática da SATC`
 `2020`
+
+<a href="https://github.com/Shinguek0/ViniciusAlbinoARS/blob/main/_Caixa_eletronico.py">1 - Caixa eletronico</a>
+
+<a href="https://github.com/Shinguek0/ViniciusAlbinoARS/blob/main/_Simulador_de_preco.py">2 - Simulador de preço</a>
+
+<a href="https://github.com/Shinguek0/ViniciusAlbinoARS/blob/main/_Boleti_escolar.py">3 - Boletim ecolar</a>
