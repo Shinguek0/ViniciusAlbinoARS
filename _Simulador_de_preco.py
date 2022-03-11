@@ -21,7 +21,7 @@ if metodoPagamento == 2:
     precoProduto = precoProduto - (precoProduto * 0.1)
 if metodoPagamento == 3:
     x = 5
-    precoProduto = precoProduto + ((precoProduto/100)* 10)
+    precoProduto = precoProduto + ((precoProduto/100) * 10)
     parcelas = precoProduto / x
 if metodoPagamento == 4:
     x = 10
